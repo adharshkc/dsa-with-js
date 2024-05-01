@@ -18,3 +18,6 @@ console.log("Sorted Array: " + insertionSort(myArray));
 console.log("Sorted Array: " + insertionSort([13,46,24,52,20,9]));
 console.log("Sorted Array: " + insertionSort([1, 2,3,4,5,6]));
 
+
+
+
